@@ -265,7 +265,8 @@ streamlit run app.py
 # 🌐 Project Links
 
 * **GitHub Repository:** https://github.com/palsamanojkumar-07/Credit-Card-Fraud-Detection
-* **Streamlit App:** *Add your Streamlit Community Cloud URL after deployment.*
+* **Live Streamlit Application:** https://manoj-credit-card-fraud-detector.streamlit.app
+
 
 ---
 
